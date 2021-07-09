@@ -1,0 +1,340 @@
+07-08 18:15:22.250  1963  1993 V AppStateTracker: Package com.android.todolist/10224 toggled into fg service restriction
+07-08 18:15:22.250  1963  1993 V AppStateTracker: Package com.android.todolist/10224 toggled into fg service restriction
+07-09 12:30:52.096  1963  2684 W XSpaceManagerService: checkXSpaceControl, from:com.miui.home, to:com.android.todolist, with act:android.intent.action.MAIN, callingUserId:0, toUserId:0
+07-09 12:30:52.100  1963  2684 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[79,787][247,955] (has extras)} from uid 10021
+07-09 12:30:52.172  1963  2006 D Boost   : hostingType=activity, hostingName={com.android.todolist/com.android.todolist.MainActivity}, callerPackage=com.miui.home, isSystem=true, isBoostNeeded=false.
+07-09 12:30:52.173  1963  2006 I ActivityManager: Start proc 12083:com.android.todolist/u0a224 for activity {com.android.todolist/com.android.todolist.MainActivity} caller=com.miui.home
+07-09 12:30:52.637 12083 12083 W Looper  : Slow Looper main: Activity com.android.todolist/.MainActivity is 346ms late (wall=0ms running=0ms ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] }) because of 2 msg, msg 1 took 126ms (seq=2 running=72ms runnable=4ms io=40ms late=11ms h=android.app.ActivityThread$H w=110), msg 2 took 254ms (seq=3 running=210ms runnable=8ms io=15ms late=91ms h=android.app.ActivityThread$H w=159)
+07-09 12:30:52.817  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b6d105b u0 com.android.todolist/.MainActivity t36} time:46686402
+07-09 12:30:59.909  1963  4116 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:30:59.934 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [95, r=437ms, a=19ms, w=7325ms]
+07-09 12:30:59.936  1963  2684 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:31:00.726  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ac0ef91 u0 com.android.todolist/.ListActivity t36} time:46694310
+07-09 12:31:01.928  1963  2684 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@7915be2
+07-09 12:31:05.242  1963  2684 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:31:05.260 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [89, r=325ms, a=40ms, w=5178ms]
+07-09 12:31:05.263  1963  2684 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:31:06.011  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{1187465 u0 com.android.todolist/.MainActivity t36} time:46699595
+07-09 12:31:57.260  1963  2304 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:31:57.290 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [88, r=1616ms, a=219ms, w=51939ms]
+07-09 12:31:57.292  1963  2684 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:31:57.994  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{379cd50 u0 com.android.todolist/.ListActivity t36} time:46751579
+07-09 12:31:58.808 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [88, r=114ms, a=15ms, w=1414ms]
+07-09 12:31:59.270  1963  2684 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@ec29d61
+07-09 12:31:59.356  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{1187465 u0 com.android.todolist/.MainActivity t36} time:46752940
+07-09 12:31:59.647  1963  2684 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:31:59.669 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [86, r=105ms, a=17ms, w=848ms]
+07-09 12:31:59.671  1963  4116 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:32:00.367  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{195e8e0 u0 com.android.todolist/.ListActivity t36} time:46753951
+07-09 12:32:00.975 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [92, r=126ms, a=10ms, w=1217ms]
+07-09 12:32:01.540  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{1187465 u0 com.android.todolist/.MainActivity t36} time:46755124
+07-09 12:32:01.652  1963  2304 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@7ec81ed
+07-09 12:32:08.284  1963  2304 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:32:08.310 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [83, r=180ms, a=36ms, w=7319ms]
+07-09 12:32:08.312  1963  2065 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:32:09.002  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{97cc39c u0 com.android.todolist/.ListActivity t36} time:46762586
+07-09 12:32:09.476 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [93, r=99ms, a=7ms, w=1075ms]
+07-09 12:32:10.026  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{1187465 u0 com.android.todolist/.MainActivity t36} time:46763610
+07-09 12:32:10.170 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [95, r=41ms, a=2ms, w=676ms]
+07-09 12:32:10.290  1963  4165 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@b73408a
+07-09 12:32:10.727  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b6d105b u0 com.android.todolist/.MainActivity t36} time:46764311
+07-09 12:36:41.589  1963  2961 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:36:41.614 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [85, r=1079ms, a=179ms, w=271424ms]
+07-09 12:36:41.616  1963  4165 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:36:42.264  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{94934ee u0 com.android.todolist/.ListActivity t36} time:47035848
+07-09 12:36:43.604  1963  2304 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@1e6e2d
+07-09 12:36:48.281  1963  4119 D PerfShielderService: com.android.todolist|com.android.todolist/com.android.todolist.ListActivity|234|47040310347938|201|0|2
+07-09 12:36:48.282  3294 13916 W MiuiPerfServiceClient: interceptAndQueuing:12083|com.android.todolist|234|201|unknown|null|com.android.todolist/com.android.todolist.ListActivity|47040310347938|Slow main thread|2
+07-09 12:36:51.771  1963  4185 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:36:51.788 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [88, r=1004ms, a=134ms, w=10087ms]
+07-09 12:36:51.790  1963  4119 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:36:52.503  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{327fe04 u0 com.android.todolist/.MainActivity t36} time:47046087
+07-09 12:36:53.008  1963  4185 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:36:53.031 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [90, r=210ms, a=21ms, w=1177ms]
+07-09 12:36:53.033  1963  4116 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:36:53.705  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{a202ca3 u0 com.android.todolist/.ListActivity t36} time:47047290
+07-09 12:36:55.061  1963  2304 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@4749239
+07-09 12:39:18.592 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [82, r=1074ms, a=225ms, w=145477ms]
+07-09 12:41:38.742  1963  8425 D com.android.server.pm.PackageManagerServiceInjector: Skip dexopt on: /data/user/0/com.google.android.youtube/cache/1624498498047.jar, because com.google.android.youtube is not current resumed. Current resumed is: com.android.todolist
+07-09 12:42:58.428  1963  3495 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:42:58.443 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [96, r=1727ms, a=64ms, w=217768ms]
+07-09 12:42:58.446  1963  3495 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:42:59.124  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ba2b4fc u0 com.android.todolist/.MainActivity t36} time:47412708
+07-09 12:43:08.957  1963  1990 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:43:08.977 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [95, r=179ms, a=8ms, w=10466ms]
+07-09 12:43:08.979  1963  4119 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:43:09.627  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{dffac65 u0 com.android.todolist/.ListActivity t36} time:47423211
+07-09 12:43:10.676 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [92, r=74ms, a=6ms, w=1622ms]
+07-09 12:43:10.969  1963  1990 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@b1153fd
+07-09 12:43:11.211  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ba2b4fc u0 com.android.todolist/.MainActivity t36} time:47424795
+07-09 12:43:11.506  1963  1990 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:43:11.524 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [94, r=66ms, a=4ms, w=837ms]
+07-09 12:43:11.526  1963  4166 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:43:12.162  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6a00dec u0 com.android.todolist/.ListActivity t36} time:47425746
+07-09 12:43:12.532  1963  4185 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:43:12.544 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [94, r=80ms, a=5ms, w=946ms]
+07-09 12:43:12.546  1963  4185 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:43:13.211  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{2e92faa u0 com.android.todolist/.MainActivity t36} time:47426796
+07-09 12:43:13.516  1963  1990 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@9290f26
+07-09 12:43:13.538  1963  4185 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:43:13.556 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [96, r=158ms, a=6ms, w=957ms]
+07-09 12:43:13.558  1963  1990 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:43:14.228  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{f86f7b2 u0 com.android.todolist/.ListActivity t36} time:47427813
+07-09 12:43:15.548  1963  1990 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@a9b80e0
+07-09 12:43:18.718  1963  4166 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:43:18.731 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [95, r=426ms, a=19ms, w=5097ms]
+07-09 12:43:18.733  1963  1990 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:43:19.414  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{8d58d1 u0 com.android.todolist/.MainActivity t36} time:47432998
+07-09 12:43:20.843  1963  1991 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:43:20.865 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [95, r=194ms, a=10ms, w=2060ms]
+07-09 12:43:20.866  1963  1991 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:43:21.515  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{5bd6658 u0 com.android.todolist/.ListActivity t36} time:47435099
+07-09 12:43:22.852  1963  1990 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@691b2cd
+07-09 12:44:07.917  1963  4185 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:44:07.930 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [93, r=337ms, a=23ms, w=46982ms]
+07-09 12:44:07.934  1963  4166 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:44:08.595  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{66f2221 u0 com.android.todolist/.MainActivity t36} time:47482179
+07-09 12:44:09.996  1963  4185 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:44:10.015 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [95, r=165ms, a=7ms, w=2018ms]
+07-09 12:44:10.017  1963  4166 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:44:10.646  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{42da364 u0 com.android.todolist/.ListActivity t36} time:47484230
+07-09 12:44:11.934  1963  1990 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:44:11.949 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [92, r=105ms, a=8ms, w=1856ms]
+07-09 12:44:11.952  1963  1990 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:44:12.122  1963  1991 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@c837bc7
+07-09 12:44:12.613  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{36f2ed7 u0 com.android.todolist/.MainActivity t36} time:47486198
+07-09 12:44:13.598  1963  4185 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:44:13.617 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [93, r=142ms, a=10ms, w=1601ms]
+07-09 12:44:13.619  1963  1991 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:44:14.281  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{d6ec6d5 u0 com.android.todolist/.ListActivity t36} time:47487865
+07-09 12:44:15.614  1963  4185 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@d8f4dbb
+07-09 12:45:21.968  1963  1991 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:45:21.985 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [96, r=751ms, a=30ms, w=68288ms]
+07-09 12:45:21.987  1963  4119 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:45:22.651  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{c49ad12 u0 com.android.todolist/.MainActivity t36} time:47556236
+07-09 12:45:25.790  1963  4119 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:45:25.809 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [94, r=170ms, a=10ms, w=3761ms]
+07-09 12:45:25.811  1963  1990 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:45:26.453  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{4b85b2f u0 com.android.todolist/.ListActivity t36} time:47560037
+07-09 12:45:27.798  1963  1990 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@3a31d0f
+07-09 12:46:28.677  1963  4185 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:46:28.690 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [93, r=105ms, a=7ms, w=62808ms]
+07-09 12:46:28.692  1963  1991 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:46:29.339  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ebb7795 u0 com.android.todolist/.MainActivity t36} time:47622923
+07-09 12:47:12.919  1963  3275 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:47:12.943 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [95, r=620ms, a=27ms, w=44200ms]
+07-09 12:47:12.945  1963  4168 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:47:13.585  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{1f9cf83 u0 com.android.todolist/.ListActivity t36} time:47667169
+07-09 12:47:14.930  1963  4185 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@fde28de
+07-09 12:55:29.925  1963  4008 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:55:29.938 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [94, r=873ms, a=46ms, w=496920ms]
+07-09 12:55:29.941  1963  4166 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:55:30.604  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{845901a u0 com.android.todolist/.MainActivity t36} time:48164189
+07-09 12:55:31.197  1963  3495 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:55:31.215 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [93, r=125ms, a=8ms, w=1222ms]
+07-09 12:55:31.216  1963  3495 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:55:31.855  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{bad1db1 u0 com.android.todolist/.ListActivity t36} time:48165439
+07-09 12:55:33.203  1963  4166 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@bdc43f6
+07-09 12:55:49.330  1963  3495 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:55:49.342 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [92, r=116ms, a=9ms, w=18057ms]
+07-09 12:55:49.345  1963  4008 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:55:49.993  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{869e8e7 u0 com.android.todolist/.MainActivity t36} time:48183578
+07-09 12:55:51.121  1963  4008 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:55:51.141 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [96, r=130ms, a=5ms, w=1749ms]
+07-09 12:55:51.142  1963  3495 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:55:51.745  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{e9b10e2 u0 com.android.todolist/.ListActivity t36} time:48185329
+07-09 12:55:53.130  1963  3495 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@c8a249e
+07-09 12:57:19.526  1963  3495 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 12:57:19.539 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [94, r=382ms, a=24ms, w=88329ms]
+07-09 12:57:19.541  1963  4137 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:57:20.171  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{64b4d70 u0 com.android.todolist/.MainActivity t36} time:48273756
+07-09 12:57:36.472 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [94, r=147ms, a=9ms, w=16880ms]
+07-09 12:58:35.106  1963  1990 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 12:58:35.130 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [68, r=31ms, a=14ms, w=57252ms]
+07-09 12:58:35.131  1963  3501 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 12083
+07-09 12:58:35.786  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{8be10d1 u0 com.android.todolist/.ListActivity t36} time:48349370
+07-09 12:58:36.881 12083 12083 W ActivityThread: SCHED: com.android.todolist/.ListActivity [83, r=89ms, a=18ms, w=1684ms]
+07-09 12:58:37.115  1963  4008 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@87b305d
+07-09 12:58:37.462  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{64b4d70 u0 com.android.todolist/.MainActivity t36} time:48351046
+07-09 13:01:45.912 12083 12083 W ActivityThread: SCHED: com.android.todolist/.MainActivity [81, r=245ms, a=54ms, w=189012ms]
+07-09 13:04:46.093  1963  1993 V AppStateTracker: Package com.android.todolist/10224 toggled into fg service restriction
+07-09 13:04:46.094  1963  1993 V AppStateTracker: Package com.android.todolist/10224 toggled into fg service restriction
+07-09 13:15:19.204  1963  4136 I ProcessManager: SwipeUpClean: kill com.android.todolist Adj=905 State=20
+07-09 13:15:19.204  1963  4136 I ActivityManager: Killing 12083:com.android.todolist/u0a224 (adj 905): SwipeUpClean
+07-09 13:15:19.244  1963  2301 I WindowManager: WIN DEATH: Window{51f3d27 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.247  1963  4005 I WindowManager: WIN DEATH: Window{5acfd76 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.249  1963  2686 I WindowManager: WIN DEATH: Window{6c488c2 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.251  1963  4167 I WindowManager: WIN DEATH: Window{ed38aa5 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.253  1963  4168 I WindowManager: WIN DEATH: Window{eaf0e00 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.255  1963  4185 I WindowManager: WIN DEATH: Window{a393ee4 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.258  1963  3501 I WindowManager: WIN DEATH: Window{237e43f u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.262  1963  4166 I WindowManager: WIN DEATH: Window{98000d2 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.266  1963  3279 I WindowManager: WIN DEATH: Window{9d5462b u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.269  1963  4116 I WindowManager: WIN DEATH: Window{db21cf u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.271  1963  3283 I WindowManager: WIN DEATH: Window{cd29701 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:19.273  1963  4003 I WindowManager: WIN DEATH: Window{a273de9 u0 com.android.todolist/com.android.todolist.MainActivity}
+07-09 13:15:33.759  1963  2686 W XSpaceManagerService: checkXSpaceControl, from:com.miui.home, to:com.android.todolist, with act:android.intent.action.MAIN, callingUserId:0, toUserId:0
+07-09 13:15:33.759  1963  2686 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[79,787][247,955] (has extras)} from uid 10021
+07-09 13:15:33.818  1963  2006 D Boost   : hostingType=activity, hostingName={com.android.todolist/com.android.todolist.MainActivity}, callerPackage=com.miui.home, isSystem=true, isBoostNeeded=false.
+07-09 13:15:33.820  1963  2006 I ActivityManager: Start proc 20523:com.android.todolist/u0a224 for activity {com.android.todolist/com.android.todolist.MainActivity} caller=com.miui.home
+07-09 13:15:34.534 20523 20523 W Looper  : Slow Looper main: Activity com.android.todolist/.MainActivity is 368ms late (wall=0ms running=0ms ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] }) because of 2 msg, msg 1 took 118ms (seq=2 running=70ms runnable=5ms io=36ms late=2ms h=android.app.ActivityThread$H w=110), msg 2 took 277ms (seq=3 running=199ms runnable=9ms io=49ms late=92ms h=android.app.ActivityThread$H w=159)
+07-09 13:15:34.676  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b4bec0c u0 com.android.todolist/.MainActivity t47} time:49368260
+07-09 13:16:28.778  1963  4167 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:16:28.800 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [96, r=299ms, a=10ms, w=54300ms]
+07-09 13:16:28.802  1963  4167 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:16:29.498  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3c30688 u0 com.android.todolist/.ListActivity t47} time:49423082
+07-09 13:16:30.478 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [94, r=111ms, a=6ms, w=1545ms]
+07-09 13:16:30.803  1963  4185 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@4818ff5
+07-09 13:16:31.015  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b4bec0c u0 com.android.todolist/.MainActivity t47} time:49424599
+07-09 13:18:02.205 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [98, r=104ms, a=2ms, w=91715ms]
+07-09 13:19:30.538  1963  2321 W XSpaceManagerService: checkXSpaceControl, from:com.miui.home, to:com.android.todolist, with act:android.intent.action.MAIN, callingUserId:0, toUserId:0
+07-09 13:19:30.538  1963  2321 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[82,791][250,959] (has extras)} from uid 10021
+07-09 13:19:30.837  1963  3501 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b4bec0c u0 com.android.todolist/.MainActivity t47} time:49604421
+07-09 13:19:32.371  1963  2321 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:19:32.391 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [89, r=71ms, a=8ms, w=1809ms]
+07-09 13:19:32.393  1963  4185 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:19:33.104  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{cf184a0 u0 com.android.todolist/.ListActivity t47} time:49606688
+07-09 13:19:33.993 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [95, r=116ms, a=6ms, w=1483ms]
+07-09 13:19:34.389  1963  4140 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@f76d6ad
+07-09 13:19:34.538  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b4bec0c u0 com.android.todolist/.MainActivity t47} time:49608122
+07-09 13:19:37.976  1963  3501 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:19:37.994 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [95, r=120ms, a=6ms, w=3990ms]
+07-09 13:19:37.995  1963  4140 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:19:38.656  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6e9b73a u0 com.android.todolist/.ListActivity t47} time:49612240
+07-09 13:19:39.998  1963  4185 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@cad5a9a
+07-09 13:19:41.132 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [95, r=119ms, a=6ms, w=3037ms]
+07-09 13:19:41.690  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b4bec0c u0 com.android.todolist/.MainActivity t47} time:49615274
+07-09 13:27:31.995  1963  4003 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:27:32.016 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [93, r=92ms, a=6ms, w=470873ms]
+07-09 13:27:32.019  1963  3501 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:27:32.701  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ee62793 u0 com.android.todolist/.ListActivity t47} time:50086285
+07-09 13:27:33.433  1963  3501 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 13:27:33.447 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [93, r=108ms, a=8ms, w=1336ms]
+07-09 13:27:33.449  1963  4003 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:27:34.004  1963  3501 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@482818c
+07-09 13:27:34.184  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{f18142e u0 com.android.todolist/.MainActivity t47} time:50087769
+07-09 13:27:37.910  1963  4167 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:27:37.920 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [96, r=556ms, a=23ms, w=4405ms]
+07-09 13:27:37.921  1963  4167 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:27:38.553  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{c949eee u0 com.android.todolist/.ListActivity t47} time:50092137
+07-09 13:27:38.826  1963  4167 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@6f2bb11
+07-09 13:27:39.241  1963  3501 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 13:27:39.252 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [90, r=115ms, a=12ms, w=1261ms]
+07-09 13:27:39.254  1963  3501 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:27:39.970  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{d98c305 u0 com.android.todolist/.MainActivity t47} time:50093554
+07-09 13:27:40.837  1963  3501 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@6991057
+07-09 13:27:42.855  1963  4003 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:27:42.874 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [95, r=407ms, a=20ms, w=3555ms]
+07-09 13:27:42.875  1963  4003 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:27:43.521  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{dfef2ba u0 com.android.todolist/.ListActivity t47} time:50097105
+07-09 13:27:44.865  1963  3501 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@806561a
+07-09 13:30:24.564  1963  3501 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 13:30:24.577 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [93, r=127ms, a=9ms, w=161627ms]
+07-09 13:30:24.579  1963  3275 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:30:25.254  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{87cc52b u0 com.android.todolist/.MainActivity t47} time:50258838
+07-09 13:30:34.115  1963  3275 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:30:34.131 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [96, r=196ms, a=8ms, w=9493ms]
+07-09 13:30:34.133  1963  3501 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:30:34.790  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{c210864 u0 com.android.todolist/.ListActivity t47} time:50268374
+07-09 13:30:35.427  1963  4167 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 13:30:35.438 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [92, r=97ms, a=8ms, w=1232ms]
+07-09 13:30:35.441  1963  4167 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:30:36.121  1963  3501 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@ea14c7
+07-09 13:30:36.125  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{56de171 u0 com.android.todolist/.MainActivity t47} time:50269709
+07-09 13:30:36.324  1963  4167 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:30:36.341 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [94, r=197ms, a=11ms, w=843ms]
+07-09 13:30:36.343  1963  3501 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:30:36.991  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{2e0f319 u0 com.android.todolist/.ListActivity t47} time:50270575
+07-09 13:30:38.329  1963  4003 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@6c8474a
+07-09 13:31:05.019  1963  4166 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 13:31:05.029 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [95, r=104ms, a=5ms, w=28612ms]
+07-09 13:31:05.031  1963  4003 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:31:05.733  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{5a916fa u0 com.android.todolist/.MainActivity t47} time:50299317
+07-09 13:31:06.500  1963  4166 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:31:06.519 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [95, r=171ms, a=8ms, w=1429ms]
+07-09 13:31:06.521  1963  4003 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:31:07.150  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{797d211 u0 com.android.todolist/.ListActivity t47} time:50300734
+07-09 13:31:07.854  1963  3275 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 13:31:07.864 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [93, r=109ms, a=8ms, w=1271ms]
+07-09 13:31:07.866  1963  4003 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:31:08.507  1963  4003 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@628b461
+07-09 13:31:08.534  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{13b4e0a u0 com.android.todolist/.MainActivity t47} time:50302118
+07-09 13:31:09.133  1963  4166 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:31:09.149 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [93, r=177ms, a=13ms, w=1224ms]
+07-09 13:31:09.151  1963  3501 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:31:09.784  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{43a8e99 u0 com.android.todolist/.ListActivity t47} time:50303368
+07-09 13:31:10.088  1963  3275 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 13:31:10.099 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [91, r=103ms, a=10ms, w=873ms]
+07-09 13:31:10.101  1963  3275 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:31:10.751  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{48fa71f u0 com.android.todolist/.MainActivity t47} time:50304335
+07-09 13:31:11.143  1963  3501 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@142a8a5
+07-09 13:31:11.473  1963  3501 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:31:11.489 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [93, r=145ms, a=10ms, w=1334ms]
+07-09 13:31:11.490  1963  3275 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:31:12.118  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{c02e46 u0 com.android.todolist/.ListActivity t47} time:50305702
+07-09 13:31:12.638  1963  4166 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 13:31:12.652 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [94, r=97ms, a=6ms, w=1090ms]
+07-09 13:31:12.654  1963  4166 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:31:13.302  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{38b740b u0 com.android.todolist/.MainActivity t47} time:50306886
+07-09 13:31:13.474  1963  4167 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@a9b2aad
+07-09 13:31:16.425  1963  4167 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:31:16.442 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [95, r=263ms, a=11ms, w=3737ms]
+07-09 13:31:16.443  1963  4003 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:31:17.069  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{fa40265 u0 com.android.todolist/.ListActivity t47} time:50310654
+07-09 13:31:17.739  1963  4003 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 13:31:17.750 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [91, r=79ms, a=7ms, w=1237ms]
+07-09 13:31:17.752  1963  1990 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:31:18.388  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{30efbaf u0 com.android.todolist/.MainActivity t47} time:50311972
+07-09 13:31:18.436  1963  4003 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@eff15bb
+07-09 13:53:22.793 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@e060b2b
+07-09 13:53:22.794 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@e060b2b
+07-09 13:53:22.806  1963  4170 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:53:22.824 20523 20523 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+07-09 13:53:22.825 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [93, r=170ms, a=12ms, w=1325026ms]
+07-09 13:53:22.827  1963  2319 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:53:22.863 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@3b4e036
+07-09 13:53:22.877 20523 20523 I chatty  : uid=10224(com.android.todolist) identical 4 lines
+07-09 13:53:22.878 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@3b4e036
+07-09 13:53:22.884  2170  2170 I ActivityObserver: filling one resumed activity ComponentInfo{com.android.todolist/com.android.todolist.ListActivity}
+07-09 13:53:22.886 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@3b4e036
+07-09 13:53:22.887 20523 20523 I chatty  : uid=10224(com.android.todolist) identical 1 line
+07-09 13:53:22.889 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@3b4e036
+07-09 13:53:22.910  2414  2414 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+07-09 13:53:22.918 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@3b4e036
+07-09 13:53:22.919 20523 20523 I chatty  : uid=10224(com.android.todolist) identical 1 line
+07-09 13:53:22.920 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@3b4e036
+07-09 13:53:22.975  1963  2004 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +163ms
+07-09 13:53:23.476  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{8405fe7 u0 com.android.todolist/.ListActivity t47} time:51637060
+07-09 13:53:24.811  1963  2304 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@ada3ff4
+07-09 13:53:28.519 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [93, r=97ms, a=7ms, w=5619ms]
+07-09 13:53:28.532  2414  2414 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+07-09 13:53:29.061  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{30efbaf u0 com.android.todolist/.MainActivity t47} time:51642645
+07-09 13:53:29.568 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@e060b2b
+07-09 13:53:29.575  1963  2301 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10224
+07-09 13:53:29.569 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@e060b2b
+07-09 13:53:29.593 20523 20523 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+07-09 13:53:29.593 20523 20523 W ActivityThread: SCHED: com.android.todolist/.MainActivity [90, r=37ms, a=4ms, w=1064ms]
+07-09 13:53:29.595  1963  2301 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:53:29.629 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@333626d
+07-09 13:53:29.630 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@333626d
+07-09 13:53:29.640 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@333626d
+07-09 13:53:29.649 20523 20523 I chatty  : uid=10224(com.android.todolist) identical 5 lines
+07-09 13:53:29.651 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@333626d
+07-09 13:53:29.653  2170  2170 I ActivityObserver: filling one resumed activity ComponentInfo{com.android.todolist/com.android.todolist.ListActivity}
+07-09 13:53:29.670  2414  2414 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+07-09 13:53:29.685 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@333626d
+07-09 13:53:29.685 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@333626d
+07-09 13:53:29.687 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@333626d
+07-09 13:53:29.737  1963  2004 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +149ms
+07-09 13:53:30.211  1963  1997 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{387a6a3 u0 com.android.todolist/.ListActivity t47} time:51643795
+07-09 13:53:31.582  1963  2319 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@a11eee2
+07-09 13:53:32.452 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@333626d
+07-09 13:53:32.452 20523 20523 I chatty  : uid=10224(com.android.todolist) identical 1 line
+07-09 13:53:32.454 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.ListActivity@333626d
+07-09 13:53:35.797  1963  2301 E InputDispatcher: Window handle Window{e0d578 u0 com.android.todolist/com.android.todolist.ListActivity} has no registered input channel
+07-09 13:54:40.936  1963  4170 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10224
+07-09 13:54:40.948 20523 20523 W ActivityThread: SCHED: com.android.todolist/.ListActivity [93, r=482ms, a=35ms, w=71288ms]
+07-09 13:54:40.951  1963  2304 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 20523
+07-09 13:54:40.968 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity@73dd4d6
+07-09 13:54:40.990 20523 20523 I chatty  : uid=10224(com.android.todolist) identical 15 lines
+07-09 13:54:40.990 20523 20523 D ForceDarkHelper: updateByCheckExcludeList: pkg: com.android.todolist activity: com.android.todolist.MainActivity

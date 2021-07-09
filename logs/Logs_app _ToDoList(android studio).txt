@@ -1,0 +1,229 @@
+2021-07-08 18:49:48.530 10576-10576/com.android.todolist W/ndroid.todolis: Accessing hidden method Landroid/widget/PopupWindow;->setClipToScreenEnabled(Z)V (light greylist, reflection)
+2021-07-08 18:49:48.532 10576-10576/com.android.todolist W/ndroid.todolis: Accessing hidden method Landroid/widget/PopupWindow;->setEpicenterBounds(Landroid/graphics/Rect;)V (light greylist, reflection)
+2021-07-08 18:49:48.533 10576-10576/com.android.todolist W/ndroid.todolis: Accessing hidden method Landroid/widget/PopupWindow;->setTouchModal(Z)V (light greylist, reflection)
+2021-07-08 18:49:48.639 10576-10576/com.android.todolist W/ndroid.todolis: Accessing hidden field Landroid/widget/AbsListView;->mIsChildViewEnabled:Z (light greylist, reflection)
+2021-07-08 18:49:48.806 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:49:48.958 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 13 lines
+2021-07-08 18:49:48.972 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:49:55.338 1937-5316/? I/ActivityManager: START u0 {cmp=com.android.todolist/.Info} from uid 10086
+2021-07-08 18:49:55.385 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@f7e5e80
+2021-07-08 18:49:55.752 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:49:55.768 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:49:55.815 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.Info: +441ms
+2021-07-08 18:49:57.777 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:49:57.798 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:49:58.241 1777-1889/? W/SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{8ffa893 token=Token{54f1982 ActivityRecord{c090ccd u0 com.android.todolist/.Info t19}}})/@0x77f06a6 - animation-leash#0
+2021-07-08 18:49:58.241 1777-1889/? W/SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{4c28fc6 token=Token{14b21a1 ActivityRecord{253b608 u0 com.android.todolist/.MainActivity t19}}})/@0x5cef1b2 - animation-leash#0
+2021-07-08 18:49:58.241 1777-1889/? W/SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{8ffa893 token=Token{54f1982 ActivityRecord{c090ccd u0 com.android.todolist/.Info t19}}})/@0x77f06a6 - animation-leash#0
+2021-07-08 18:49:58.241 1777-1889/? W/SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{4c28fc6 token=Token{14b21a1 ActivityRecord{253b608 u0 com.android.todolist/.MainActivity t19}}})/@0x5cef1b2 - animation-leash#0
+2021-07-08 18:49:58.262 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:49:58.956 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:01.643 1937-4173/? I/ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10086
+2021-07-08 18:50:01.685 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@bf3e91e
+2021-07-08 18:50:01.767 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:01.843 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:01.872 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:01.909 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.ListActivity: +248ms
+2021-07-08 18:50:01.913 1937-2617/? I/ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10086
+2021-07-08 18:50:01.940 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:01.946 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:01.958 1937-2617/? W/NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@e0e15f2
+2021-07-08 18:50:01.991 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@c5e857c
+2021-07-08 18:50:02.058 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:02.144 1777-1777/? D/SurfaceFlinger: duplicate layer name: changing com.android.todolist/com.android.todolist.ListActivity to com.android.todolist/com.android.todolist.ListActivity#1
+2021-07-08 18:50:02.259 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:02.285 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:02.294 1777-1777/? D/SurfaceFlinger: duplicate layer name: changing Surface(name=AppWindowToken{ff6519 token=Token{197c60 ActivityRecord{d11d863 u0 com.android.todolist/.ListActivity t19}}})/@0xa6768e - animation-leash to Surface(name=AppWindowToken{ff6519 token=Token{197c60 ActivityRecord{d11d863 u0 com.android.todolist/.ListActivity t19}}})/@0xa6768e - animation-leash#1
+2021-07-08 18:50:02.325 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.ListActivity: +352ms
+2021-07-08 18:50:02.340 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:02.348 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:03.923 1937-3226/? W/NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@773949e
+2021-07-08 18:50:04.254 10576-10576/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-07-08 18:50:04.260 10576-10576/com.android.todolist I/AssistStructure: Flattened final assist data: 2680 bytes, containing 1 windows, 10 views
+2021-07-08 18:50:04.274 7450-7450/? I/LatinIme: onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : Incognito = Disable
+2021-07-08 18:50:04.456 7450-7450/? W/Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+2021-07-08 18:50:21.559 7450-7450/? W/Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+2021-07-08 18:50:32.316 7450-7450/? I/LatinIme: onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : Incognito = Disable
+2021-07-08 18:50:32.361 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:32.378 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:32.394 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:32.406 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:32.411 7450-7450/? W/Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+2021-07-08 18:50:46.539 10576-10576/com.android.todolist I/System.out: run morning en 0
+2021-07-08 18:50:50.105 10576-10576/com.android.todolist I/System.out: dghrdhy en 0
+2021-07-08 18:50:55.668 1937-2617/? I/ActivityManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10086
+2021-07-08 18:50:55.690 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@571bd0a
+2021-07-08 18:50:55.853 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:55.873 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:55.887 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.MainActivity: +198ms
+2021-07-08 18:50:55.889 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:55.933 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:56.008 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 8 lines
+2021-07-08 18:50:56.342 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:50:57.357 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:12.310 1937-7369/? I/ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10086
+2021-07-08 18:57:12.424 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@67d041d
+2021-07-08 18:57:12.537 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:12.551 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:12.707 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:12.749 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.ListActivity: +364ms
+2021-07-08 18:57:12.774 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:14.139 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:14.343 1937-7369/? W/NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@4bbe579
+2021-07-08 18:57:17.680 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:17.898 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 21 lines
+2021-07-08 18:57:17.911 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:20.139 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:20.168 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 3 lines
+2021-07-08 18:57:20.453 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:20.454 10576-10640/com.android.todolist D/OpenGLRenderer: endAllActiveAnimators on 0xcd18c900 (MenuPopupWindow$MenuDropDownListView) with handle 0xcbffb280
+2021-07-08 18:57:21.726 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:22.595 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:22.858 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 15 lines
+2021-07-08 18:57:22.860 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:25.147 1777-1777/? D/SurfaceFlinger: duplicate layer name: changing com.android.todolist/com.android.todolist.ListActivity to com.android.todolist/com.android.todolist.ListActivity#1
+2021-07-08 18:57:25.183 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:25.194 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:25.309 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 5 lines
+2021-07-08 18:57:25.420 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:26.510 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:26.611 10576-10576/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-07-08 18:57:26.620 10576-10576/com.android.todolist I/AssistStructure: Flattened final assist data: 6308 bytes, containing 2 windows, 26 views
+2021-07-08 18:57:26.672 7450-7450/? I/LatinIme: onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : Incognito = Disable
+2021-07-08 18:57:26.879 7450-7450/? W/Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+2021-07-08 18:57:27.029 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:27.090 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:28.640 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:29.122 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:37.595 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:38.037 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:39.077 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:39.079 10576-10640/com.android.todolist D/OpenGLRenderer: endAllActiveAnimators on 0xcd3e3900 (RippleDrawable) with handle 0xcbffb040
+2021-07-08 18:57:39.108 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:39.265 1777-2343/? W/SurfaceFlinger: Attempting to set client state on removed layer: com.android.todolist/com.android.todolist.ListActivity#1
+2021-07-08 18:57:39.265 1777-2343/? W/SurfaceFlinger: Attempting to destroy on removed layer: com.android.todolist/com.android.todolist.ListActivity#1
+2021-07-08 18:57:49.089 10576-10576/com.android.todolist I/System.out: dghrdhy en 0
+2021-07-08 18:57:49.545 10576-10576/com.android.todolist I/System.out: run morning en 1
+2021-07-08 18:57:59.136 1937-2613/? I/ActivityManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10086
+2021-07-08 18:57:59.156 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@dccec4a
+2021-07-08 18:57:59.418 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:59.441 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:59.509 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.MainActivity: +305ms
+2021-07-08 18:57:59.511 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:59.529 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 1 line
+2021-07-08 18:57:59.532 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:59.551 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:57:59.556 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:01.712 1937-2617/? I/ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10086
+2021-07-08 18:58:01.762 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@fd40559
+2021-07-08 18:58:01.823 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:01.944 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:01.965 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:02.001 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.ListActivity: +268ms
+2021-07-08 18:58:02.023 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:02.427 1777-1804/? W/SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{ed93425 token=Token{fc4301c ActivityRecord{944558f u0 com.android.todolist/.ListActivity t19}}})/@0x7d385aa - animation-leash#0
+2021-07-08 18:58:02.427 1777-1804/? W/SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{af409a7 token=Token{f4ac266 ActivityRecord{51ffac1 u0 com.android.todolist/.MainActivity t19}}})/@0x5c11a4a - animation-leash#0
+2021-07-08 18:58:02.427 1777-1804/? W/SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{ed93425 token=Token{fc4301c ActivityRecord{944558f u0 com.android.todolist/.ListActivity t19}}})/@0x7d385aa - animation-leash#0
+2021-07-08 18:58:02.427 1777-1804/? W/SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{af409a7 token=Token{f4ac266 ActivityRecord{51ffac1 u0 com.android.todolist/.MainActivity t19}}})/@0x5c11a4a - animation-leash#0
+2021-07-08 18:58:03.129 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:03.723 1937-2617/? W/NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@afbc76f
+2021-07-08 18:58:04.333 1937-3007/? I/ActivityManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10086
+2021-07-08 18:58:04.371 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@76bc968
+2021-07-08 18:58:04.601 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:04.623 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:04.642 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.MainActivity: +284ms
+2021-07-08 18:58:04.651 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:04.672 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:04.698 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 2 lines
+2021-07-08 18:58:04.702 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:04.753 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:04.758 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 1 line
+2021-07-08 18:58:04.767 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:05.070 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:05.594 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:07.467 1777-1777/? D/SurfaceFlinger: duplicate layer name: changing com.android.todolist/com.android.todolist.MainActivity to com.android.todolist/com.android.todolist.MainActivity#1
+2021-07-08 18:58:07.505 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:07.529 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 2 lines
+2021-07-08 18:58:07.540 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:08.553 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:08.564 10576-10576/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-07-08 18:58:08.573 10576-10576/com.android.todolist I/AssistStructure: Flattened final assist data: 5984 bytes, containing 2 windows, 25 views
+2021-07-08 18:58:08.636 7450-7450/? I/LatinIme: onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : Incognito = Disable
+2021-07-08 18:58:08.665 7450-7450/? W/Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+2021-07-08 18:58:08.764 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:09.053 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:10.041 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:10.041 10576-10640/com.android.todolist D/OpenGLRenderer: endAllActiveAnimators on 0xcb29c000 (RippleDrawable) with handle 0xdf1ffc40
+2021-07-08 18:58:10.085 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:10.207 1777-2343/? W/SurfaceFlinger: Attempting to set client state on removed layer: com.android.todolist/com.android.todolist.MainActivity#1
+2021-07-08 18:58:10.207 1777-2343/? W/SurfaceFlinger: Attempting to destroy on removed layer: com.android.todolist/com.android.todolist.MainActivity#1
+2021-07-08 18:58:12.182 1937-3007/? I/ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10086
+2021-07-08 18:58:12.222 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@b00aad8
+2021-07-08 18:58:12.280 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:12.342 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:12.356 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:12.397 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.ListActivity: +194ms
+2021-07-08 18:58:12.418 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:13.871 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:14.190 1937-3007/? W/NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@52d5083
+2021-07-08 18:58:15.398 7450-7450/? I/LatinIme: onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : Incognito = Disable
+2021-07-08 18:58:15.400 10576-10576/com.android.todolist E/ndroid.todolis: Invalid ID 0x00000000.
+2021-07-08 18:58:15.403 10576-10576/com.android.todolist I/AssistStructure: Flattened final assist data: 2676 bytes, containing 1 windows, 10 views
+2021-07-08 18:58:15.444 7450-7450/? W/Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+2021-07-08 18:58:18.934 7450-7450/? W/Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+2021-07-08 18:58:21.035 7450-7450/? I/LatinIme: onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Disable : Suggestion = Show : AutoCorrection = Disable : Microphone = Show : Incognito = Disable
+2021-07-08 18:58:21.076 7450-7450/? W/Conv2QueryExtension: Conv2Query not enabled due to current app [com.android.todolist] not in whitelist
+2021-07-08 18:58:33.054 1937-3172/? I/ActivityManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10086
+2021-07-08 18:58:33.071 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@accb463
+2021-07-08 18:58:33.235 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:33.254 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:33.278 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 2 lines
+2021-07-08 18:58:33.284 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:33.291 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.MainActivity: +214ms
+2021-07-08 18:58:33.303 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:33.385 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 7 lines
+2021-07-08 18:58:33.401 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:33.747 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:34.616 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:37.200 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:37.245 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 3 lines
+2021-07-08 18:58:37.247 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:37.280 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:37.285 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:37.315 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:37.460 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 9 lines
+2021-07-08 18:58:37.475 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:38.755 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:38.817 1937-3172/? I/ActivityManager: START u0 {cmp=com.android.todolist/.About} from uid 10086
+2021-07-08 18:58:38.850 10576-10576/com.android.todolist W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@1f8356e
+2021-07-08 18:58:39.008 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:39.031 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:39.047 1937-1959/? I/ActivityManager: Displayed com.android.todolist/.About: +199ms
+2021-07-08 18:58:39.068 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:39.086 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 1 line
+2021-07-08 18:58:39.155 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:39.157 10576-10640/com.android.todolist D/OpenGLRenderer: endAllActiveAnimators on 0xcd3e0800 (MenuPopupWindow$MenuDropDownListView) with handle 0xcd1646c0
+2021-07-08 18:58:39.867 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:39.950 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:39.967 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 1 line
+2021-07-08 18:58:40.422 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:41.016 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:42.510 1777-1777/? D/SurfaceFlinger: duplicate layer name: changing com.android.todolist/com.android.todolist.MainActivity to com.android.todolist/com.android.todolist.MainActivity#1
+2021-07-08 18:58:42.565 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:42.578 10576-10640/com.android.todolist I/chatty: uid=10086(com.android.todolist) RenderThread identical 2 lines
+2021-07-08 18:58:42.586 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:44.120 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:44.945 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:44.946 10576-10640/com.android.todolist D/OpenGLRenderer: endAllActiveAnimators on 0xcc8bf080 (RippleDrawable) with handle 0xcd164080
+2021-07-08 18:58:44.968 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:45.125 1777-2008/? W/SurfaceFlinger: Attempting to set client state on removed layer: com.android.todolist/com.android.todolist.MainActivity#1
+2021-07-08 18:58:45.126 1777-2008/? W/SurfaceFlinger: Attempting to destroy on removed layer: com.android.todolist/com.android.todolist.MainActivity#1
+2021-07-08 18:58:46.988 1777-1777/? D/SurfaceFlinger: duplicate layer name: changing com.android.todolist/com.android.todolist.MainActivity to com.android.todolist/com.android.todolist.MainActivity#1
+2021-07-08 18:58:47.034 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:48.013 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:48.592 1777-1777/? D/SurfaceFlinger: duplicate layer name: changing com.android.todolist/com.android.todolist.MainActivity to com.android.todolist/com.android.todolist.MainActivity#1
+2021-07-08 18:58:48.648 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:49.226 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:49.884 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:51.137 10576-10640/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xdf1fb880: ver 3 0 (tinfo 0xe0b2a4f0)
+2021-07-08 18:58:51.201 1777-2008/? W/SurfaceFlinger: Attempting to destroy on removed layer: AppWindowToken{4c28fc6 token=Token{14b21a1 ActivityRecord{253b608 u0 com.android.todolist/.MainActivity t19}}}#0
